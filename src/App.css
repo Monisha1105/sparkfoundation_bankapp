@@ -1,0 +1,25 @@
+.home{
+  padding: 160px 15px;
+  max-width: 1920px;
+  height: 100vh;
+  background-origin: padding-box;
+  /* background: url(../images/banking-customer.jpg); */
+  background: url('../public/banking-customer.jpg');
+
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: inset 0 0 0 2000px #1c1c1c65;
+}
+
+.bg-createUser {
+  background-image: url("../public/bg.webp");
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh !important;
+  background-position: initial;
+  padding-top: 50px !important;
+}
